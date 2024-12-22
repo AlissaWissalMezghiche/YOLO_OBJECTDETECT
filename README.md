@@ -1,21 +1,3 @@
-this project involving the fine-tuning and training of a YOLO (You Only Look Once) model for object detection.
-
-1. **Dataset Preparation**:
-   - The dataset is converted into the YOLO format, including bounding box annotations.
-   - The structure is organized for compatibility with YOLO's input format.
-
-2. **Model and Training**:
-   - The YOLOv10n.pt model is used as the base.
-   - A `data.yaml` file is created to define training and validation paths.
-   - Training is performed for 3 epochs due to computational constraints.
-
-3. **Evaluation**:
-   - Examples are plotted for testing after training to visualize model predictions.
-
-With this understanding, here's a professional README template for the project:
-
----
-
 ## YOLO Object Detection Project
 
 ### Description
